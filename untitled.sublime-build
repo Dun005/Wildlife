@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "make",
+	"cmd":["C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","$file"] 
+}
